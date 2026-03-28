@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "sidestore-server",
+            "address": "https://anisette-v3-server-1bjj.onrender.com"
+        }
+    ]
+}
